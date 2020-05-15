@@ -2,7 +2,7 @@ title = "Notre-Dame de Paris"
 baseURL = "https://tecnologia-web-grupo-1.github.io/static_ananke/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-themesDir = "../.."
+#themesDir = "../.."
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
