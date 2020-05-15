@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acerca on Prueba de funcionamiento Grupo 1</title>
+    <link>https://tecnologia-web-grupo-1.github.io/static_ananke/acerca/</link>
+    <description>Recent content in Acerca on Prueba de funcionamiento Grupo 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tecnologia-web-grupo-1.github.io/static_ananke/acerca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
