@@ -1,7 +1,7 @@
 ---
 date: 2020-05-19T12:55:05-04:00
 description: "Articulo de Julio"
-featured_image: "/images/Julio-Villacis.jpg"
+featured_image: "/images/Sistemas-Distribuidos.jpg"
 tags: []
 title: "Articulo: Sistemas Distribuidos"
 disable_share: false
