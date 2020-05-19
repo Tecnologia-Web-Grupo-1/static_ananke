@@ -17,7 +17,8 @@
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>https://tecnologia-web-grupo-1.github.io/static_ananke/post/chapter-6/</guid>
-      <description>Un sistema distribuido es un conjunto de ordenadores que trabajan juntos de forma coordinada, a través del intercambio de mensajes, para conseguir un objetivo. En dicho sistema, el estado y los programas se guardan en múltiples ordenadores. A pesar de que los procesos que tienen lugar están separados entre los diferentes participantes, para el usuario parece que está trabajando con un único ordenador. ¿Qué caracteriza un sistema distribuido? Podemos decir que tienen 3 características principales: Concurrencia: Cada ordenador de la red ejecuta eventos de forma independiente y al mismo tiempo que los otros.</description>
+      <description>Un sistema distribuido es un conjunto de ordenadores que trabajan juntos de forma coordinada, a través del intercambio de mensajes, para conseguir un objetivo. En dicho sistema, el estado y los programas se guardan en múltiples ordenadores. A pesar de que los procesos que tienen lugar están separados entre los diferentes participantes, para el usuario parece que está trabajando con un único ordenador.
+¿Qué caracteriza un sistema distribuido? Podemos decir que tienen 3 características principales:</description>
     </item>
     
     <item>
