@@ -95,8 +95,13 @@ Estos sistemas también presentan una serie de desventajas, veamos algunas:
 ## Fuentes:
 
 https://rancher.com/blog/2019/considerations-when-designing-distributed-systems/
+
 https://www.oreilly.com/ideas/distributed-systems-a-quick-and-simple-definition
+
 https://thenewstack.io/distributed-systems-hard/
+
 https://www.youtube.com/watch?v=7VbL89mKK3M
+
 https://en.wikipedia.org/wiki/Distributed_computing
+
 https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/
