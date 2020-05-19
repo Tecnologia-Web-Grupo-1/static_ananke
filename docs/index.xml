@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Chapter VI: Esmeralda</title>
+      <title>ARticulo: Sistemas Distribuidos</title>
       <link>https://tecnologia-web-grupo-1.github.io/static_ananke/post/chapter-6/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
       <guid>https://tecnologia-web-grupo-1.github.io/static_ananke/post/chapter-6/</guid>
-      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
+      <description>Un sistema distribuido es un conjunto de ordenadores que trabajan juntos de forma coordinada, a través del intercambio de mensajes, para conseguir un objetivo. En dicho sistema, el estado y los programas se guardan en múltiples ordenadores. A pesar de que los procesos que tienen lugar están separados entre los diferentes participantes, para el usuario parece que está trabajando con un único ordenador. ¿Qué caracteriza un sistema distribuido? Podemos decir que tienen 3 características principales: Concurrencia: Cada ordenador de la red ejecuta eventos de forma independiente y al mismo tiempo que los otros.</description>
     </item>
     
     <item>
