@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Ananke: Tema usado por el grupo 1"
 featured_image: '/images/Tecnologia-Web.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "Pagina de inicio."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Bienvenido a nuestro blog el cual son nuestros primeros pininos. Por favor revise nuestros articulos.
