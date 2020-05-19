@@ -1,11 +1,21 @@
 ---
 date: 2020-05-19T12:55:05-04:00
-description: "Articulo de Julio"
+description: "Articulo de Julio Villacís"
 featured_image: "/images/Sistemas-Distribuidos.jpg"
 tags: []
 title: "Articulo: Sistemas Distribuidos"
 disable_share: false
 ---
+
+El articulo y la imagen fueron tomados del siguiente link:
+
+https://medium.com/@adr.rod87/qu%C3%A9-es-un-sistema-distribuido-442870a40bc4
+
+#### Autor del articulo
+
+# Adrian Rodriguez
+
+
 Un sistema distribuido es un conjunto de ordenadores que trabajan juntos de forma coordinada, a través del intercambio de mensajes, para conseguir un objetivo. En dicho sistema, el estado y los programas se guardan en múltiples ordenadores. A pesar de que los procesos que tienen lugar están separados entre los diferentes participantes, para el usuario parece que está trabajando con un único ordenador.
 
 ## ¿Qué caracteriza un sistema distribuido?
