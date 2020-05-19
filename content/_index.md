@@ -1,5 +1,5 @@
 ---
-title: "Ananke: Tema usado por el grupo 1"
+title: "Ananke: Grupo 1"
 featured_image: '/images/Tecnologia-Web.jpg'
 description: "Pagina de inicio."
 ---
