@@ -81,17 +81,19 @@ Apertura: es la extensibilidad para nuevas funciones y aplicaciones (no quiere d
   * Calidad del servicio: Hace referencia a la capacidad de llegar a ciertas garantías en cuanto al tiempo.
   * Ventajas de un sistema distribuido
 
-Vamos a enumerar algunas de las ventajas de los sistemas distribuidos:
-Al estar los nodos de la red conectados entre sí el hecho de compartir información entre ellos es más sencillo
-Nuevos nodos pueden añadirse al sistema fácilmente, por tanto, la escalabilidad del sistema es más sencilla.
-Al ser independiente del fallo de los componentes, el hecho de que un nodo falle, no lleva al fallo de todo el sistema
-Desventajas de un sistema distribuido
+### Vamos a enumerar algunas de las ventajas de los sistemas distribuidos:
+* Al estar los nodos de la red conectados entre sí el hecho de compartir información entre ellos es más sencillo
+* Nuevos nodos pueden añadirse al sistema fácilmente, por tanto, la escalabilidad del sistema es más sencilla.
+* Al ser independiente del fallo de los componentes, el hecho de que un nodo falle, no lleva al fallo de todo el sistema
+### Desventajas de un sistema distribuido
 Estos sistemas también presentan una serie de desventajas, veamos algunas:
-Es muy complicado proveer una seguridad adecuada en un sistema distribuido, ya que hay que proteger a los nodos como a las conexiones entre ellos.
-Algunos mensajes e información pueden perderse en la red cuando los nodos se comunican entre ellos.
-La base de datos conectada al sistema será complicada y difícil de manejar si la comparamos a un sistema centralizado.
-Puede producirse una sobrecarga en la red si todos los nodos del sistema intentan enviar mensajes a la vez.
-Fuentes:
+* Es muy complicado proveer una seguridad adecuada en un sistema distribuido, ya que hay que proteger a los nodos como a las conexiones entre ellos.
+* Algunos mensajes e información pueden perderse en la red cuando los nodos se comunican entre ellos.
+* La base de datos conectada al sistema será complicada y difícil de manejar si la comparamos a un sistema centralizado.
+* Puede producirse una sobrecarga en la red si todos los nodos del sistema intentan enviar mensajes a la vez.
+
+## Fuentes:
+
 https://rancher.com/blog/2019/considerations-when-designing-distributed-systems/
 https://www.oreilly.com/ideas/distributed-systems-a-quick-and-simple-definition
 https://thenewstack.io/distributed-systems-hard/
