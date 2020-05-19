@@ -1,9 +1,9 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 description: "Articulo de Julio"
-featured_image: "/images/Juli-Villacis.jpg"
+featured_image: "/images/Julio-Villacis.jpg"
 tags: []
-title: "ARticulo: Sistemas Distribuidos"
+title: "Articulo: Sistemas Distribuidos"
 disable_share: false
 ---
 Un sistema distribuido es un conjunto de ordenadores que trabajan juntos de forma coordinada, a través del intercambio de mensajes, para conseguir un objetivo. En dicho sistema, el estado y los programas se guardan en múltiples ordenadores. A pesar de que los procesos que tienen lugar están separados entre los diferentes participantes, para el usuario parece que está trabajando con un único ordenador.
