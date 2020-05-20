@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacto
 featured_image: "images/notebook.jpg"
 omit_header_text: true
 description: Estamos esparando para que nos contacten
