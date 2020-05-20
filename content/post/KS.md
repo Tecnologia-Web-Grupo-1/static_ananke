@@ -1,7 +1,7 @@
 ---
 date: 2020-05-19T12:55:05-04:00
 description: "Articulo de Karen Segura"
-featured_image: "https://ih1.redbubble.net/image.560022930.3198/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg"
+featured_image: "images\comunity manager.jpg"
 tags: []
 title: "Articulo: Community Manager"
 disable_share: false
@@ -34,6 +34,11 @@ Est√° dem√°s decir que tanto Facebook como Twitter son las dos redes sociales m√
 ‚ÄúEl community manager debe ver estas plataformas como herramientas para comunicar el objetivo de la empresa a bajo costo y de manera transparente (todo lo que se escribe es pr√°cticamente p√∫blico). Adem√°s de generar una sensaci√≥n de cercan√≠a con los clientes y mejorar la reputaci√≥n de la marca al resolver dudas o conflictos eficazmente‚Äù, argumenta el autor del libro.
 
 En lo referente al email marketing, el profesional en el tema indica que el uso del correo electr√≥nico como estrategia de posicionamiento se ha popularizado. Seg√∫n una encuesta de la Revista Forbes Media sobre la efectividad de los anuncios, el email marketing ocupa el segundo mejor canal de conversi√≥n para el posicionamiento SEO de la compa√±√≠a.
+
+øC”MO ELEGIR UN BUEN CURSO PARA SER MEJOR COMMUNITY MANAGER?
+Cursos para community manager hay cientos: Masters, talleres, seminariosÖ pero no todos valen la pena. He asistido a cursos de todo tipo. Algunos donde explicaban cÛmo crearte una cuenta en Twitter, o cÛmo buscar fotos en Flickr, de los cuales te ibas con la sensaciÛn de haber sido engaÒado; hasta cursos de los que de verdad aprendes.
+
+No todos van dirigidos al mismo p˙blico. En funciÛn de cu·l sea tu nivel, deber·s elegir uno u otro. Si est·s empezando, lo mejor ser· que apuestes por cursos o talleres para principiantes. De lo contrario, tendr·s la sensaciÛn de no entender nada. Lo contrario ocurre si tu nivel es avanzado. Si llevas aÒos dedic·ndote al social media y form·ndote de forma autodidacta, la oferta formativa se reduce, pues, la demanda suele ser menor, de ahÌ que las empresas de formaciÛn no suelan ofertar cursos m·s especializados o de nivel avanzado.
 
 
 ## Fuentes:
