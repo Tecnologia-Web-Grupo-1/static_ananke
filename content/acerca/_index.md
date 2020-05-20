@@ -14,4 +14,4 @@ los integrantes del grupo:
 ## Karen Segura.
 ## Omar Cruz.
 ## Jean Tapia.
-## ![Julio Villacis](/images/Julio-Villacis.png)
+![Julio Villacis](/images/Julio-Villacis.png)
