@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Articulo: FRAMEWORK VEU.JS</title>
+      <link>https://tecnologia-web-grupo-1.github.io/static_ananke/post/jc/</link>
+      <pubDate>Tue, 19 May 2020 12:55:05 -0400</pubDate>
+      
+      <guid>https://tecnologia-web-grupo-1.github.io/static_ananke/post/jc/</guid>
+      <description>El articulo y la imagen fueron tomados del siguiente link:
+https://towardsdatascience.com/vue-js-vs-angular-js-which-is-the-best-performing-javascript-framework-for-web-development-f5f6a9ef4038
+Autor del articulo Anonimo Según el Informe de desbordamiento de pila de 2019 , el 67.8% de los desarrolladores utilizan Javascript y lo convierten en un lenguaje de programación popular en la comunidad de desarrollo de sitios web. Por otro lado, JavaScript es el lenguaje de programación más complejo ya que el 8.36% del código JS está profundamente anidado.</description>
+    </item>
+    
+    <item>
       <title>Articulo: Sistemas Distribuidos</title>
       <link>https://tecnologia-web-grupo-1.github.io/static_ananke/post/sod/</link>
       <pubDate>Tue, 19 May 2020 12:55:05 -0400</pubDate>
@@ -20,17 +31,6 @@
       <description>El articulo y la imagen fueron tomados del siguiente link:
 https://medium.com/@adr.rod87/qu%C3%A9-es-un-sistema-distribuido-442870a40bc4
 Autor del articulo Adrian Rodriguez Un sistema distribuido es un conjunto de ordenadores que trabajan juntos de forma coordinada, a través del intercambio de mensajes, para conseguir un objetivo. En dicho sistema, el estado y los programas se guardan en múltiples ordenadores. A pesar de que los procesos que tienen lugar están separados entre los diferentes participantes, para el usuario parece que está trabajando con un único ordenador.</description>
-    </item>
-    
-    <item>
-      <title>Contacto</title>
-      <link>https://tecnologia-web-grupo-1.github.io/static_ananke/contacto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tecnologia-web-grupo-1.github.io/static_ananke/contacto/</guid>
-      <description>Ejemplo de lo que pued contener la pagina de contactos
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your NameEmail AddressAn email address is required.Message</description>
     </item>
     
   </channel>
