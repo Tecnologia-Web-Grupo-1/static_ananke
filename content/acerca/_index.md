@@ -3,7 +3,7 @@ title: "Acerca"
 description: "Somos un grupo de 6 estudiantes de la maestria de sistemas de información gerencial y estamos probando hugo y el tema ANANKE."
 featured_image: 'images/Acerca-de.jpg'
 ---
-{{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Grupo1.jpg" title="Nuestro logo de grupo"  width="73" height="74" >}}
+{{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Grupo1.jpg" title="Nuestro logo de grupo"  width="44" height="51" >}}
 
 Grupo # 6
 
@@ -15,4 +15,4 @@ los integrantes del grupo:
 ## Omar Cruz.
 ## Jean Tapia
 ## Julio Villacis
-  {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Julio-Villacis-tumb.jpg" title="Nuestro logo de grupo"  width="44" height="51" >}}
+  {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Julio-Villacis-tumb.png" title="Nuestro logo de grupo"  width="44" height="51" >}}
