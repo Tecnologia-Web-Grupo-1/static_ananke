@@ -31,6 +31,27 @@
   </url>
   
   <url>
+    <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/post/chapter-1/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/tags/scene/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/tags/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/acerca/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,12 +59,6 @@
   
   <url>
     <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

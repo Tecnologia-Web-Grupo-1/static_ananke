@@ -33,5 +33,15 @@ https://medium.com/@adr.rod87/qu%C3%A9-es-un-sistema-distribuido-442870a40bc4
 Autor del articulo Adrian Rodriguez Un sistema distribuido es un conjunto de ordenadores que trabajan juntos de forma coordinada, a través del intercambio de mensajes, para conseguir un objetivo. En dicho sistema, el estado y los programas se guardan en múltiples ordenadores. A pesar de que los procesos que tienen lugar están separados entre los diferentes participantes, para el usuario parece que está trabajando con un único ordenador.</description>
     </item>
     
+    <item>
+      <title>Mis datos personales</title>
+      <link>https://tecnologia-web-grupo-1.github.io/static_ananke/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://tecnologia-web-grupo-1.github.io/static_ananke/post/chapter-1/</guid>
+      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
+The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+    </item>
+    
   </channel>
 </rss>
