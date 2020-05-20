@@ -3,7 +3,7 @@ title: "Acerca"
 description: "Somos un grupo de 6 estudiantes de la Maestria de Sistemas de Información Gerencial y estamos probando hugo y el tema ANANKE."
 featured_image: 'images/Acerca-de.jpg'
 ---
-{{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Grupo1.jpg" title="Nuestro logo de grupo"  width="5" height="200" >}}
+{{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Grupo1.jpg" title="Nuestro logo de grupo"  width="5" height="300" >}}
 
 Grupo # 6
 
