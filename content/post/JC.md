@@ -3,7 +3,7 @@ date: 2020-05-19T12:55:05-04:00
 description: "Articulo de Jean Tapia"
 featured_image: "https://ih1.redbubble.net/image.560022930.3198/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg"
 tags: []
-title: "Articulo: Sistemas Distribuidos"
+title: "Articulo: Framework VEU.JS"
 disable_share: false
 ---
 
