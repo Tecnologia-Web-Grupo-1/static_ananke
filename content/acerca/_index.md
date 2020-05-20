@@ -9,9 +9,9 @@ Grupo # 6
 
 los integrantes del grupo:
 
-# * Linda Castillo.
-# * Mariela Lindao.
-# * Karen Segura.
-# * Omar Cruz.
-# * Jean Tapia.
-# * Julio Villacis.
+## Linda Castillo.
+## Mariela Lindao.
+## Karen Segura.
+## Omar Cruz.
+## Jean Tapia.
+## ![Julio Villacis](/images/Julio-Villacis.png)
