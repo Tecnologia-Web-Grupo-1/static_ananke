@@ -6,10 +6,22 @@
     <description>Recent content in Ananke: Grupo 1 on Prueba de funcionamiento Grupo 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 21:43:05 -0400</lastBuildDate>
     
 	<atom:link href="https://tecnologia-web-grupo-1.github.io/static_ananke/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Articulo: Cluster</title>
+      <link>https://tecnologia-web-grupo-1.github.io/static_ananke/post/cluster/</link>
+      <pubDate>Tue, 19 May 2020 21:43:05 -0400</pubDate>
+      
+      <guid>https://tecnologia-web-grupo-1.github.io/static_ananke/post/cluster/</guid>
+      <description>El articulo y la imagen fueron tomados del siguiente link:
+https://es.wikipedia.org/wiki/Cl%C3%BAster_(inform%C3%A1tica)
+Autor del articulo Wikipedia El término clúster1​ (del inglés cluster, que significa grupo o racimo) se aplica a los conjuntos de servidores unidos entre sí normalmente por una red de alta velocidad y que se comportan como si fuesen un único servidor.
+La tecnología de clústeres ha evolucionado en apoyo de actividades que van desde aplicaciones de supercómputo y software para aplicaciones críticas, servidores web y comercio electrónico, hasta bases de datos de alto rendimiento, y otros usos.</description>
+    </item>
     
     <item>
       <title>Articulo: El efecto del COVID-19 en el mundo digital</title>
