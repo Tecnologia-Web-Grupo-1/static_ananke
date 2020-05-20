@@ -6,10 +6,22 @@
     <description>Recent content in Ananke: Grupo 1 on Prueba de funcionamiento Grupo 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 21:43:05 -0400</lastBuildDate>
     
 	<atom:link href="https://tecnologia-web-grupo-1.github.io/static_ananke/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Articulo: Cluster</title>
+      <link>https://tecnologia-web-grupo-1.github.io/static_ananke/post/cluster/</link>
+      <pubDate>Tue, 19 May 2020 21:43:05 -0400</pubDate>
+      
+      <guid>https://tecnologia-web-grupo-1.github.io/static_ananke/post/cluster/</guid>
+      <description>El articulo y la imagen fueron tomados del siguiente link:
+https://es.wikipedia.org/wiki/Cl%C3%BAster_(inform%C3%A1tica)
+Autor del articulo Wikipedia El término clúster1​ (del inglés cluster, que significa grupo o racimo) se aplica a los conjuntos de servidores unidos entre sí normalmente por una red de alta velocidad y que se comportan como si fuesen un único servidor.
+La tecnología de clústeres ha evolucionado en apoyo de actividades que van desde aplicaciones de supercómputo y software para aplicaciones críticas, servidores web y comercio electrónico, hasta bases de datos de alto rendimiento, y otros usos.</description>
+    </item>
     
     <item>
       <title>Articulo: El efecto del COVID-19 en el mundo digital</title>
@@ -42,6 +54,17 @@ Autor del articulo Anonimo JC Según el Informe de desbordamiento de pila de 201
       <description>El articulo y la imagen fueron tomados del siguiente link:
 https://medium.com/@adr.rod87/qu%C3%A9-es-un-sistema-distribuido-442870a40bc4
 Autor del articulo Adrian Rodriguez Un sistema distribuido es un conjunto de ordenadores que trabajan juntos de forma coordinada, a través del intercambio de mensajes, para conseguir un objetivo. En dicho sistema, el estado y los programas se guardan en múltiples ordenadores. A pesar de que los procesos que tienen lugar están separados entre los diferentes participantes, para el usuario parece que está trabajando con un único ordenador.</description>
+    </item>
+    
+    <item>
+      <title>Tecnologia</title>
+      <link>https://tecnologia-web-grupo-1.github.io/static_ananke/post/lcc/</link>
+      <pubDate>Tue, 19 May 2020 12:55:05 -0400</pubDate>
+      
+      <guid>https://tecnologia-web-grupo-1.github.io/static_ananke/post/lcc/</guid>
+      <description>El articulo y la imagen fueron tomados del siguiente link:
+https://sintec.com/areas-de-impacto/tecnologia/
+Autor del articulo Anonimo Linda Castillo Nuestros servicios se enfocan en mejorar el futuro de las organizaciones. Brindamos asesor�a e implementaci�n tecnol�gica para la optimizaci�n y el respaldo del modelo operativo, con una visi�n integral.</description>
     </item>
     
     <item>
