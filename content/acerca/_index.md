@@ -8,11 +8,11 @@ featured_image: 'images/Acerca-de.jpg'
 Grupo # 6
 
 los integrantes del grupo:
-| Nombre | imagen |
-| --- | --- |
-| ## Linda Castillo. | {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Linda-Castillo-tumb.jpg" width="44" height="51" >}} |
-| ## Mariela Lindao. | {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Mariella-Lindao-tumb.jpg" width="44" height="51" >}} |
-| ## Karen Segura. | {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Karen-Segura-tumb.jpg" width="44" height="51" >}} |
-| ## Omar Cruz. | {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Jean-Tapia-tumb.jpg" width="44" height="51" >}} |
-| ## Jean Tapia. |  {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Jean-Tapia-tumb.jpg" width="44" height="51" >}} |
-| ## Julio Villacis. |  {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Julio-Villacis-tumb.png" width="44" height="51" >}} |
+ Nombre | imagen
+ --- | ---
+ Linda Castillo. | {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Linda-Castillo-tumb.jpg" width="100" height="100" >}}
+ Mariela Lindao. | {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Mariella-Lindao-tumb.jpg" width="100" height="100" >}} 
+ Karen Segura. | {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Karen-Segura-tumb.jpg" width="100" height="100" >}}
+ Omar Cruz. | {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Jean-Tapia-tumb.jpg" width="100" height="100" >}}
+ Jean Tapia. |  {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Jean-Tapia-tumb.jpg" width="100" height="100" >}}
+ Julio Villacis. |  {{< figure src="https://tecnologia-web-grupo-1.github.io/static_ananke/images/Julio-Villacis-tumb.png" width="100" height="100" >}}
