@@ -12,6 +12,6 @@ https://towardsdatascience.com/vue-js-vs-angular-js-which-is-the-best-performing
 
 #### Autor del articulo
 
-# Anonimo
+# Anonimo JC
 
 Según el Informe de desbordamiento de pila de 2019 , el 67.8% de los desarrolladores utilizan Javascript y lo convierten en un lenguaje de programación popular en la comunidad de desarrollo de sitios web. Por otro lado, JavaScript es el lenguaje de programación más complejo ya que el 8.36% del código JS está profundamente anidado.
