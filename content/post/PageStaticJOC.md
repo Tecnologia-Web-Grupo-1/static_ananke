@@ -1,7 +1,7 @@
 ﻿---
 date: 2020-05-19T12:55:05-04:00
 description: "Articulo de Omar Cruz M."
-featured_image: "https://ih1.redbubble.net/image.560022930.3198/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg"
+featured_image: "images/Paginastatica.jpg"
 tags: []
 title: "Articulo: PAGINAS ESTATICAS"
 disable_share: false
