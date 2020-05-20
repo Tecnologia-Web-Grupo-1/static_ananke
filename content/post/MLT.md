@@ -1,7 +1,7 @@
----
+﻿---
 date: 2020-05-19T12:55:05-04:00
 description: "Articulo de Mariella Lindao"
-featured_image: "https://ih1.redbubble.net/image.560022930.3198/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg"
+featured_image: "/images/covid-mundoML.jpg"
 tags: []
 title: "Articulo: El efecto del COVID-19 en el mundo digital"
 disable_share: false
