@@ -14,4 +14,4 @@ los integrantes del grupo:
 ## Karen Segura.
 ## Omar Cruz.
 ## Jean Tapia.
-![Julio Villacis](https://tecnologia-web-grupo-1.github.io/static_ananke/images/Julio-Villacis.png)
+## Julio Villacis ![Julio Villacis](https://tecnologia-web-grupo-1.github.io/static_ananke/images/Julio-Villacis-tumb.png)
