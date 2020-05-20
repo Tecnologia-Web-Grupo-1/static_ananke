@@ -1,7 +1,7 @@
 ---
 date: 2020-05-19T12:55:05-04:00
 description: "Articulo de Linda Castillo"
-featured_image: "Tecnologia.jpg"
+featured_image: "/images/Tecnologia.jpg"
 tags: []
 title: "Las Tecnologias de la Informacion y Comunicacion (TIC)"
 disable_share: false
