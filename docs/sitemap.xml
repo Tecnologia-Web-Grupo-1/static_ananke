@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/post/ayuda-github/</loc>
+    <lastmod>2020-05-19T21:43:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/post/</loc>
     <lastmod>2020-05-19T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
