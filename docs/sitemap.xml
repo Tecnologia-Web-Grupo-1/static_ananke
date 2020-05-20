@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/post/mltpage2/</loc>
+    <lastmod>2020-05-19T12:55:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/post/ks/</loc>
     <lastmod>2020-05-19T12:55:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -59,13 +66,6 @@
   </url>
   
   <url>
-    <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/post/staticdinamicjoc/</loc>
-    <lastmod>2020-05-19T12:55:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/post/sod/</loc>
     <lastmod>2020-05-19T12:55:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -75,6 +75,13 @@
   <url>
     <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/post/lcc/</loc>
     <lastmod>2020-05-19T12:55:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://tecnologia-web-grupo-1.github.io/static_ananke/post/staticdinamicjoc/</loc>
+    <lastmod>2020-05-19T12:55:05-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
