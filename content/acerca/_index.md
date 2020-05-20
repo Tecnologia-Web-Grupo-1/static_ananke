@@ -13,5 +13,4 @@ los integrantes del grupo:
 ## Mariela Lindao.
 ## Karen Segura.
 ## Omar Cruz.
-## Jean Tapia.
-## Julio Villacis ![Julio Villacis](https://tecnologia-web-grupo-1.github.io/static_ananke/images/Julio-Villacis-tumb.png)
+## Jean o Villacis ![](https://tecnologia-web-grupo-1.github.io/static_ananke/images/Julio-Villacis-tumb.png =44x51)
